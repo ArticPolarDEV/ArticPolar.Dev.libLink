@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>ArticPolar.Dev.libLink</id>
+    <version>1.0.0</version>
+    <title>ArticPolar.Dev.libLink</title>
+    <authors>ArticPolar Apps</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/JoseLucas1303/ArticPolar.Dev.libLink/</projectUrl>
+    <description>First Function: Open Url in default Browser</description>
+    <releaseNotes>First Version</releaseNotes>
+    <copyright>Copyright © ArticPolar 2023</copyright>
+    <tags>link web browser open website</tags>
+  </metadata>
+</package>
